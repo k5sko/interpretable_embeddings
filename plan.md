@@ -74,3 +74,4 @@ Replicate the QA-Emb → fMRI pipeline, but predicting **Llama 3-8B hidden-state
 
 ## Expected Outcome
 If QA-Emb can predict LLM activations, it would mean the semantic distinctions captured by yes/no questions align with the internal representation geometry of the LLM. This would be a form of interpretability — we could describe what an LLM layer is "thinking about" in terms of human-readable questions.
+
